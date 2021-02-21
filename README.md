@@ -1,7 +1,7 @@
 # Um clone do app Club House
 
-## Demonstration
-<img src="https://macmagazine.com.br/wp-content/uploads/2021/02/08-clubhouse-2-623x1260.png" alt="Exemplo">
+## Demonstração
+<img src="./assets/demo.jpeg" alt="Exemplo">
 
 ## Techs
 
@@ -12,4 +12,4 @@
 
 **Fillipi Pereira**
 
-Encontre-me nas redes sociais como @vonweizsacker
+Encontre-me no Linkedin como linkedin.com/in/pereirafi/
